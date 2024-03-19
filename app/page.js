@@ -63,8 +63,8 @@ export default function Home() {
                             Back in 2009, I embarked on creating a private
                             server for a popular game, which catapulted me into
                             the intricate world of software development.
-                            Fast-forward to today, and I've had the privilege of
-                            building software professionally.
+                            Fast-forward to today, and I&lsquo;ve had the
+                            privilege of building software professionally.
                         </p>
                         <p className="mb-6">
                             My main focus these days is building a mixture of
@@ -86,8 +86,9 @@ export default function Home() {
                         </p>
 
                         <p className="mb-6">
-                            When i'm not at my desk, you can find me in the gym,
-                            watching football or working on side projects.
+                            When i&lsquo;m not at my desk, you can find me in
+                            the gym, watching football or working on side
+                            projects.
                         </p>
                     </section>
 
